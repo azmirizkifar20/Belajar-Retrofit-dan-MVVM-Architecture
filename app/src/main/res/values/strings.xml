@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Belajar Recyclerview</string>
+    <string name="negara">Negara :</string>
+    <string name="mata_uang">Mata Uang :</string>
+    <string name="ibu_kota">Ibu Kota :</string>
+    <string name="jumlah_penduduk">Jumlah Penduduk :</string>
+</resources>
